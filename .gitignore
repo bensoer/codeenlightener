@@ -1,4 +1,9 @@
 #meta folder for phpStorm
 /.idea
-#compiled template directory
+#ignore compiled template directory
 /application/views/templates_c/*
+#except .gitkeep
+!.gitkeep
+#even if in subdirectory
+!*/
+
