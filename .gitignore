@@ -1,0 +1,4 @@
+#meta folder for phpStorm
+/.idea
+#compiled template directory
+/application/views/templates_c/*
